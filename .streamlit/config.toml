@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#FF9900"  # Amazon Orange
+backgroundColor = "#232F3E"  # Amazon Dark Blue
+secondaryBackgroundColor = "#37475A"  # Slate Blue
+textColor = "#FFFFFF"  # White
